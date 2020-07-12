@@ -138,7 +138,7 @@ The easiest way to include ndcontainer is to copy-paste the nd/ directory (or in
 
 Each container is header-only and self-contained.
 
-### Details 
+### DETAILS 
 
 - Data are stored internally in a 1D std::vector or std::array. For instance 3 dimensions xyz are stored like this:
 ```c++
